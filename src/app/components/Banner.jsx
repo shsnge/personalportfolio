@@ -11,9 +11,9 @@ function Banner() {
 
             <div className=" w-[80%] h-[100%] mx-auto flex justify-between font-primary gap-10 flex-col md:flex-row mt-[6%] py-32">
                 <div className=" w-full md:w-1/2 flex flex-col justify-center gap-7 mt-10 h-[400px] ">
-                    <h1 className="text-[2rem] md:text-[3rem] font-bold text-white" data-aos="fade-down-right">HI,I'M <span className="text-yellow-300" >ZEESHAN</span></h1>
+                    <h1 className="text-[2rem] md:text-[3rem] font-bold text-white" data-aos="fade-down-right">HI,I&#39;M <span className="text-yellow-300" >ZEESHAN</span></h1>
                     <h1 className="text-4xl font-bold"><TextAnimation /></h1>
-                    <p className="text-[#ffffff92]" data-aos="fade-right">I'm a passionate web developer with hands-on experience building dynamic and responsive web applications using React, Next.js, and MongoDB. My focus is on creating seamless user experiences with a clean, maintainable codebase, ensuring top-notch performance and scalability.</p>
+                    <p className="text-[#ffffff92]" data-aos="fade-right">I&#39;m a passionate web developer with hands-on experience building dynamic and responsive web applications using React, Next.js, and MongoDB. My focus is on creating seamless user experiences with a clean, maintainable codebase, ensuring top-notch performance and scalability.</p>
                     <div className="flex items-center gap-5">
 
                         <Link 
@@ -35,7 +35,7 @@ function Banner() {
 
                 <div className="w-1/2 hidden md:flex mt-10">
                     <div className="h-[500px] w-[500px] relative" data-aos="fade-down">
-                        <Image src="/zeshan.PNG" fill className="h-[400px] w-[400px] rounded-full" />
+                        <Image src="/zeshan.PNG" alt="img" fill className="h-[400px] w-[400px] rounded-full" />
                     </div>
                 </div>
 

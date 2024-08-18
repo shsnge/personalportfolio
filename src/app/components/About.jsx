@@ -16,7 +16,7 @@ function About() {
                     <div className="mb-[3rem] flex items-center md:space-x-10 space-x-5 ">
                         <span className="w-[100px] h-[5px] bg-slate-400 rounded-sm"></span>
                         <h1 className="w-[80%] text-slate-300 text-[19px]">
-                            I take pride in delivering projects that not only meet the client's needs but exceed their expectations by implementing cutting-edge solutions. Whether it's building a scalable application, designing intuitive user interfaces, or optimizing a website for performance and SEO, I bring a strong commitment to quality and attention to detail to every project I work on.
+                            I take pride in delivering projects that not only meet the client&#39;s needs but exceed their expectations by implementing cutting-edge solutions. Whether it&#39;s building a scalable application, designing intuitive user interfaces, or optimizing a website for performance and SEO, I bring a strong commitment to quality and attention to detail to every project I work on.
                         </h1>
 
                     </div>
